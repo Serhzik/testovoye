@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MS/FlatCarKit1/Scene/Scene.unity
+  isLoaded: 1
+  isActive: 1
